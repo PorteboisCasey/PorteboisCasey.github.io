@@ -71,6 +71,16 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
+                  as={Link}
+                  to="/resume"
+                  onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Entreprise
+              </Nav.Link>
+            </Nav.Item>
+
+            <Nav.Item>
+              <Nav.Link
                 as={Link}
                 to="/project"
                 onClick={() => updateExpanded(false)}
@@ -79,16 +89,6 @@ function NavBar() {
                   style={{ marginBottom: "2px" }}
                 />{" "}
                 Mes projets
-              </Nav.Link>
-            </Nav.Item>
-
-            <Nav.Item>
-              <Nav.Link
-                as={Link}
-                to="/resume"
-                onClick={() => updateExpanded(false)}
-              >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> CV
               </Nav.Link>
             </Nav.Item>
 

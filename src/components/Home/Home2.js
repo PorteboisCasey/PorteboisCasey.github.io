@@ -16,23 +16,24 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LAISSEZ MOI  <span className="purple"> M'INTRODUIRE </span>
+              LAISSEZ MOI  <span className="purple"> M'INTRODUIRE</span>
             </h1>
             <p className="home-about-body">
-              Je suis tombé amoureux de la programmation et j'ai au moins appris quelque chose, je pense. 🤷‍️
+              Je suis tombé amoureux de la programmation et de l'IT en général.
               <br />
               <br />Je suis actuellement en BTS SIO
               <i>
-                <b className="purple"> PHP SYMFONY, JAVA, SQL, CYBERSECURITY AND C  </b>
+                <b className="purple"> PHP SYMFONY, JAVA, SQL, CYBERSECURITÉ ET C  </b>
               </i>
               <br />
               <br />
               Mes centres d'intérets au niveau informatique sont :  &nbsp;
               <i>
-                <b className="purple">Mes centres d'intérêt sont la création de nouvelles technologies et de nouveaux produits Web  </b>
+                <b className="purple">La création de nouvelles technologies et de nouveaux produits Web  </b>
                 ainsi que les domaines liés à la{" "}
                 <b className="purple">
-                   blockchain.
+                   blockchain et du typescript depuis quelque temps. J'essaye de me mettre a jours sur toutes les techs intéressantes
+                  pour devenir DEVOPS
                 </b>
               </i>
               <br />
