@@ -773,3 +773,18 @@ button:focus {
     object-fit: cover;
     z-index: 10;
 }
+/* Ajout pour le bouton Plus d'infos/Moins d'infos */
+.button {
+    background-color: #6c63ff; /* Couleur pour s'harmoniser avec le thème "purple" */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.button:hover {
+    background-color: #5a52d5; /* Un peu plus foncé que la couleur de base */
+}
+

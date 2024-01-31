@@ -6,25 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8b23afe2-4e9c-47b9-95ee-7791e243e552" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/blog.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/chatify.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/codeEditor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/emotion.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/leaf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/suicide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/avatar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/cv.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/pre.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/About.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/AboutCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Type.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Type.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/ProjectCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/ProjectCards.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
     </list>
@@ -58,25 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "ts.external.directory.path": "/Applications/PhpStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bbyhea/Desktop/portfolio/Portfolio/src/components/Resume&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PhpStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/Resume" />
       <recent name="$PROJECT_DIR$/src/Assets/Projects" />
       <recent name="$PROJECT_DIR$/src/components/Alternance" />
     </key>
@@ -105,6 +87,8 @@
       <workItem from="1704975310655" duration="1445000" />
       <workItem from="1706082057527" duration="16202000" />
       <workItem from="1706168835418" duration="7771000" />
+      <workItem from="1706193711435" duration="1908000" />
+      <workItem from="1706259632536" duration="617000" />
     </task>
     <servers />
   </component>
