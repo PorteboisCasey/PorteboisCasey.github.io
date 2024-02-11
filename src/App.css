@@ -34,7 +34,15 @@
   }
   to {
     transform: rotate(360deg);
+
   }
-
-
 }
+.project-card img {
+  width: 100%; /* Assure que la largeur de l'image est toujours de 100% de son conteneur */
+  height: 200px; /* Fixe une hauteur spécifique pour toutes les images */
+  object-fit: cover; /* S'assure que l'image couvre l'espace disponible, pouvant couper une partie de l'image si nécessaire */
+}
+
+
+
+

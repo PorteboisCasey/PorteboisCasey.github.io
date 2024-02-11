@@ -9,6 +9,8 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import json from "/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/json.jpeg"
+import panther from "/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/panther.png"; // Importation de l'image panther.png
+
 
 function Projects() {
   return (
@@ -39,19 +41,19 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
                 title="Module Drupal Vers JSON" // Remplacez par le titre de votre projet
                 description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement" // Brève description du projet
                 ghLink="https://github.com/lien_vers_votre_projet_1" // Lien GitHub du projet
-                demoLink="morsay"/>
+                demoLink="cyp"/>
             />
           </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
-                imgPath={"json.png"} // Chemin de l'image du premier projet
-                isBlog={false}
-                title="Mise en place de Symfony Panther" // Remplacez par le titre de votre projet
-                description="Dans ce projet lors de mon alternance, j'ai du installer Panther Smyfony a travers un conteneur et un docker file" // Brève description du projet
-                ghLink="https://github.com/lien_vers_votre_projet_1" // Lien GitHub du projet
-                demoLink="cyp" // Lien de démonstration du projet (si applicable)
-            />
-          </Col>
+            <Col md={4} className="project-card">
+                <ProjectCard
+                    imgPath={panther} // Utilisation de l'image panther.png
+                    isBlog={false}
+                    title="Mise en place de Symfony Panther"
+                    description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests."
+                    ghLink="https://github.com/lien_vers_votre_projet_1"
+                    demoLink="morsay"
+                />
+            </Col>
 
 
 
