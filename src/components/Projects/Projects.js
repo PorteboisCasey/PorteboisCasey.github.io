@@ -8,8 +8,8 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
-import json from "/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/json.jpeg"
-import panther from "/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/panther.png"; // Importation de l'image panther.png
+import json from "../../Assets/Projects/json.jpeg"
+import panther from "../../Assets/Projects/panther.png";
 
 
 function Projects() {
