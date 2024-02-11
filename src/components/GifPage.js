@@ -2,16 +2,14 @@
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import demo1 from '../Assets/Projects/demo1.gif'; // Assurez-vous que le chemin est correct
-import demo2 from '/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/morsay.gif'
-import demo3 from '/Users/bbyhea/Desktop/portfolio/Portfolio/src/Assets/Projects/Cyp.gif'
+import demo2 from '../Assets/Projects/morsay.gif'
+import demo3 from '../Assets/Projects/Cyp.gif'
 import Button from 'react-bootstrap/Button'; // Assurez-vous d'avoir importé Button de React Bootstrap
 
 const gifMapper = {
     "demo1": demo1,
     "morsay" : demo2,
     "cyp" : demo3,
-
-    // Ajoutez d'autres mappings ici selon vos besoins
 };
 
 const GifPage = () => {

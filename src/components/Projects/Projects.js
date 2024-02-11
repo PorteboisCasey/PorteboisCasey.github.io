@@ -31,7 +31,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
               title="ORTHELP"
               description="Site d'entraide entre les étudiants des établissement ORTHELP avec Symfony PHP et une application en JAVA"
               ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="demo1"             />
+              demoLink="demo1"/>
           </Col>
 
           <Col md={4} className="project-card">
@@ -41,7 +41,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
                 title="Module Drupal Vers JSON" // Remplacez par le titre de votre projet
                 description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement" // Brève description du projet
                 ghLink="https://github.com/lien_vers_votre_projet_1" // Lien GitHub du projet
-                demoLink="cyp"/>
+                demoLink="demo2"/>
             />
           </Col>
             <Col md={4} className="project-card">
@@ -51,7 +51,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
                     title="Mise en place de Symfony Panther"
                     description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests."
                     ghLink="https://github.com/lien_vers_votre_projet_1"
-                    demoLink="morsay"
+                    demoLink="demo3"
                 />
             </Col>
 
