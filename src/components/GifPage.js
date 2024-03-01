@@ -8,8 +8,8 @@ import Button from 'react-bootstrap/Button'; // Assurez-vous d'avoir importé Bu
 
 const gifMapper = {
     "demo1": demo1,
-    "morsay" : demo2,
-    "cyp" : demo3,
+    "demo2" : demo2,
+    "demo3" : demo3,
 };
 
 const GifPage = () => {

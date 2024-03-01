@@ -1,6 +1,5 @@
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
-import { BsGithub } from 'react-icons/bs';
 import { CgWebsite } from 'react-icons/cg';
 import { useNavigate } from 'react-router-dom'; // Importez useNavigate de react-router-dom
 
@@ -22,9 +21,6 @@ function ProjectCards(props) {
                 <Card.Text style={{ textAlign: "justify" }}>
                     {props.description}
                 </Card.Text>
-                <Button variant="primary" href={props.ghLink} target="_blank">
-                    <BsGithub /> &nbsp;{props.isBlog ? "Blog" : "GitHub"}
-                </Button>
                 {!props.isBlog && props.demoLink && (
                     <Button
                         variant="primary"
