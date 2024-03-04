@@ -7,12 +7,12 @@ function Type() {
       options={{
         strings: [
           "Étudiant EN BTS SIO SLAM",
-            "Vous avez devant vous la définition du terme passionné  "
-
+          "Vous avez devant vous la définition du terme passionné"
         ],
         autoStart: true,
         loop: true,
-        deleteSpeed: 50,
+        deleteSpeed: 100,
+        delay: 15, // Ajoutez cette ligne
       }}
     />
   );

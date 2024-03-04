@@ -12,7 +12,10 @@ import json from "../../Assets/Projects/json.jpeg"
 import panther from "../../Assets/Projects/panther.png";
 import composer from "../../Assets/Projects/composer.png"
 
+
+
 function Projects() {
+
   return (
     <Container fluid className="project-section">
       <Particle />
@@ -39,8 +42,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={json}
     isBlog={false}
     title="Module Drupal Vers JSON"
-    description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement"
-    ghLink="https://github.com/lien_vers_votre_projet_1"
+    description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
     demoLink="demo2"/>
 </Col>
 
@@ -49,8 +51,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={panther}
     isBlog={false}
     title="Mise en place de Symfony Panther"
-    description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests."
-    ghLink="https://github.com/lien_vers_votre_projet_1"
+    description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests selon un cahier d'exigences."
     demoLink="demo3"
   />
 </Col>
@@ -60,8 +61,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={composer}
     isBlog={false}
     title="Bundle Composer"
-    description="Dans ce projet j'ai du créer un bundle pour connecter les entrée d'une api ainsi que les sorties selon certains critères"
-    ghLink="https://github.com/lien_vers_votre_nouveau_projet"
+    description="Dans ce projet j'ai du créer un bundle pour connecter les entrées d'une api ainsi que les sorties selon certains critères pour exploiter les données."
     demoLink="demo4"
   />
 </Col>
