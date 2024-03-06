@@ -1,0 +1,29 @@
+/* Home.css */
+.home-button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  }
+  
+  .home-button-cv {
+    background-color: #007bff; /* Blue */
+    color: white;
+  }
+  
+  .home-button-cv:hover {
+    background-color: #0056b3;
+  }
+  
+  .home-button-competences {
+    background-color: #28a745; /* Green */
+    color: white;
+  }
+  
+  .home-button-competences:hover {
+    background-color: #218838;
+  }
+  

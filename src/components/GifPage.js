@@ -4,12 +4,14 @@ import { useParams, useNavigate } from 'react-router-dom';
 import demo1 from '../Assets/Projects/demo1.gif'; // Assurez-vous que le chemin est correct
 import demo2 from '../Assets/Projects/morsay.gif'
 import demo3 from '../Assets/Projects/Cyp.gif'
+import demo4 from '../Assets/Projects/np.gif'
 import Button from 'react-bootstrap/Button'; // Assurez-vous d'avoir importé Button de React Bootstrap
 
 const gifMapper = {
     "demo1": demo1,
     "demo2" : demo2,
     "demo3" : demo3,
+    "demo4" : demo4
 };
 
 const GifPage = () => {

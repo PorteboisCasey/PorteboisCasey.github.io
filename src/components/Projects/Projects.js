@@ -14,6 +14,7 @@ import composer from "../../Assets/Projects/composer.png"
 
 
 
+
 function Projects() {
 
   return (
@@ -43,7 +44,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     isBlog={false}
     title="Module Drupal Vers JSON"
     description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
-    demoLink="demo2"/>
+    demoLink="demo3"/>
 </Col>
 
 <Col md={3} className="project-card">
@@ -52,7 +53,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     isBlog={false}
     title="Mise en place de Symfony Panther"
     description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests selon un cahier d'exigences."
-    demoLink="demo3"
+    demoLink="demo2"
   />
 </Col>
 
