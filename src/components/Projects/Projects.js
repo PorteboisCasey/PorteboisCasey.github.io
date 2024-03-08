@@ -25,7 +25,7 @@ function Projects() {
           Mes projets <strong className="purple">récents </strong>
         </h1>
         <p style={{ color: "white" }}>
-Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
+Voici mes projets / missions majeurs réalisés lors de mes deux ans de BTS SIO au CFA et en entreprise.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={3} className="project-card">
@@ -43,7 +43,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={json}
     isBlog={false}
     title="Module Drupal Vers JSON"
-    description="Dans ce projet lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
+    description="Dans cette mission lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
     demoLink="demo3"/>
 </Col>
 
@@ -52,7 +52,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={panther}
     isBlog={false}
     title="Mise en place de Symfony Panther"
-    description="Dans ce projet lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests selon un cahier d'exigences."
+    description="Dans cette mission lors de mon alternance, j'ai dû installer Panther Symfony à travers un conteneur et un Dockerfile puis entamer des tests selon un cahier d'exigences."
     demoLink="demo2"
   />
 </Col>
@@ -62,7 +62,7 @@ Voici mes projets majeurs réalisés lors de mes deux ans de BTS SIO.
     imgPath={composer}
     isBlog={false}
     title="Bundle Composer"
-    description="Dans ce projet j'ai du créer un bundle pour connecter les entrées d'une api ainsi que les sorties selon certains critères pour exploiter les données."
+    description="Dans cette mission j'ai du créer un bundle pour connecter les entrées d'une api ainsi que les sorties selon certains critères pour exploiter les données."
     demoLink="demo4"
   />
 </Col>
