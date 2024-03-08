@@ -4,8 +4,7 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 import homeLogo from "../../Assets/home-main.svg";
-import '/Users/bbyhea/Desktop/portfolio/Portfolio/src/style.css'; // Assurez-vous que le chemin est correct
-
+import '../../style.css';
 function Home() {
   
   return (
