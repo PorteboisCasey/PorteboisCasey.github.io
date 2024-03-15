@@ -19,7 +19,7 @@ function Home2() {
               Qui <span className="purple"> suis je ?</span>
             </h1>
             <p className="home-about-body">
-              Je suis tombé dans la programmation et de l'IT en général assez jeune vis a vis des jeux vidéos.
+              Je me suis dirigé naturellement dans la programmation et l'IT en général car depuis mon plus jeune âge je suis passionné des jeux vidéos et l'informatique.
               <br />
               <br />Je suis actuellement en BTS SIO avec comme grands axes de travail : &nbsp;
               <i>
@@ -32,7 +32,7 @@ function Home2() {
                 <b className="purple">Les domaines </b>
                   liés à la{" "}
                 <b className="purple">
-                  blockchain et du système en général depuis quelque temps. J'essaye de me mettre a jours sur toutes les techs intéressantes
+                  blockchain et du système en général. Depuis quelque temps je me met à jour sur toutes les technologies intéressantes
                   pour devenir DEVOPS ou admin Sys.  🙇🏻‍
                 </b>
               </i>

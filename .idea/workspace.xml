@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b23afe2-4e9c-47b9-95ee-7791e243e552" name="Changes" comment="v">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/avatar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/panther.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Projects/panther.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assets/cv.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/competence.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/public/competence.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/Projects/diagramme.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/Projects/diagramme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/AboutCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/AboutCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About/Github.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About/Github.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Home/Home2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Home2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Projects/Projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Resume/ResumeNew.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,6 +109,7 @@
       <workItem from="1709288780559" duration="3000" />
       <workItem from="1709711589988" duration="601000" />
       <workItem from="1709724098389" duration="4000" />
+      <workItem from="1710164104857" duration="29000" />
     </task>
     <task id="LOCAL-00001" summary="v">
       <option name="closed" value="true" />

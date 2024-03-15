@@ -22,7 +22,7 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Mes projets <strong className="purple">récents </strong>
+          Mes projets / Missions <strong className="purple">récents </strong>
         </h1>
         <p style={{ color: "white" }}>
 Voici mes projets / missions majeurs réalisés lors de mes deux ans de BTS SIO au CFA et en entreprise.

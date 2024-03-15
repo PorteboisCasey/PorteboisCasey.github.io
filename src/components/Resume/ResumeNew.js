@@ -18,7 +18,7 @@ function ResumeNew() {
                             <Card.Body>
                                 <blockquote className="blockquote mb-0">
                                     <p style={{ textAlign: "justify" }}>
-                                        Je travaille actuellement au <span className="purple">CCAS des Activités Sociales des Industries Électriques et Gazières</span>, située à Montreuil, France. Cette entité, créée en <span className="purple">1946</span>, gère les activités sociales pour le personnel des industries électrique et gazière, bénéficiant à plus de 500 000 personnes. <br />
+                                        Je travaille actuellement à la <span className="purple">CCAS (Caisses centrales des activités sociales des Industries Électriques et Gazières de France)    </span>, située à Montreuil en France. Cette entité, créée en <span className="purple">1946</span>, gère les activités sociales pour le personnel des industries électrique et gazière, bénéficiant à plus de 500 000 personnes. <br />
                                     </p>
                                     {/* Vous pouvez continuer à ajouter du texte ou ajuster le contenu ici. */}
                                 </blockquote>
