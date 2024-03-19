@@ -32,8 +32,8 @@ function Home2() {
                 <b className="purple">Les domaines </b>
                   liés à la{" "}
                 <b className="purple">
-                  blockchain et du système en général. Depuis quelque temps je me met à jour sur toutes les technologies intéressantes
-                  pour devenir DEVOPS ou admin Sys.  🙇🏻‍
+                  blockchain et du système. Depuis quelque temps je me met à jour sur toutes les technologies intéressantes
+                  pour devenir DEVOPS ou administrateur systèmes.
                 </b>
               </i>
               <br />

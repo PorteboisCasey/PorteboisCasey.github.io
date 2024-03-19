@@ -13,11 +13,11 @@ function AboutCard() {
               <br />
               <br />
               <br />
-              En dehors de l'iformatique mes centres d'intérêts sont:
+              En dehors de l'informatique mes centres d'intérêts sont:
             </p>
             <ul>
               <li className="about-activity">
-                <ImPointRight />  La Musculation
+                <ImPointRight />  Jiu Jutsu Brésilien 🥋
                   
               </li>
               <li className="about-activity">
@@ -32,7 +32,7 @@ function AboutCard() {
                 Mon <strong className="purple">Entreprise </strong>
               </h1>
               En ce qui concerne mon alternance, je travaille actuellement a la CCAS de Montreuil dans le département de la  DSI. C'est une expérience <strong className="purple">Professionelle </strong> passionnante où je peux mettre en pratique mes compétences en informatique
-              en utilisant comme <strong className="purple">technologie </strong> PHP symfony, Docker ainsi que du SQL.
+              en utilisant comme <strong className="purple">technologie </strong> PHP Symfony, Docker ainsi que du SQL.
             </p>
           </blockquote>
         </Card.Body>
