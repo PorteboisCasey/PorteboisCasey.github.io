@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col, Button } from "react-bootstrap";
 import myImg from "../../Assets/avatar3.png";
 import Tilt from "react-parallax-tilt";
+import cv from '../../Assets/Projects/cv.pdf';
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -79,9 +80,9 @@ function Home2() {
               <Button href="/competence.pdf" target="_blank" className="m-2">
                 Voir mon tableau de compétences
               </Button>
-              <Button href="/cv.pdf" target="_blank" className="m-2">
-                Voir mon CV
-              </Button>
+              <Button href={cv} target="_blank" className="m-2">
+  Voir mon CV
+</Button>
             </div>
           </Col>
         </Row>

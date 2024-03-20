@@ -32,8 +32,8 @@ Voici mes projets / missions majeurs réalisés lors de mes deux ans de BTS SIO 
   <ProjectCard
     imgPath={chatify}
     isBlog={false}
-    title="ORTHELP"
-    description="Site d'entraide entre les étudiants des établissement ORTHELP avec Symfony PHP et une application en JAVA"
+    title="HELPORT"
+    description="Site d'entraide entre les étudiants des établissements ORTHELP avec Symfony PHP et une application en JAVA"
     ghLink="https://github.com/soumyajit4419/Chatify"
     demoLink="demo1"/>
 </Col>
@@ -43,7 +43,7 @@ Voici mes projets / missions majeurs réalisés lors de mes deux ans de BTS SIO 
     imgPath={json}
     isBlog={false}
     title="Module Drupal Vers JSON"
-    description="Dans cette mission lors de mon stage j'ai codé de A a Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
+    description="Dans cette mission lors de mon stage j'ai codé de A à Z un module json qui récupére les informations de sites drupal pour un meilleur rendement d'extraction de données."
     demoLink="demo3"/>
 </Col>
 
