@@ -33,7 +33,7 @@ Voici mes projets / missions majeurs réalisés lors de mes deux ans de BTS SIO 
     imgPath={chatify}
     isBlog={false}
     title="HELPORT"
-    description="Site d'entraide entre les étudiants des établissements ORTHELP avec Symfony PHP et une application en JAVA"
+    description="Site d'entraide entre les étudiants des établissements ORT avec Symfony PHP et une application en JAVA"
     ghLink="https://github.com/soumyajit4419/Chatify"
     demoLink="demo1"/>
 </Col>
